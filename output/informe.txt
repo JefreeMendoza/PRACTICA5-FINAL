@@ -1,0 +1,12 @@
+
+Informe de Candidatos:
+
+- Experiencia promedio: 15.28698 años
+- Puntuación máxima en el desafío de código: 10
+- Distribución de tecnología: 
+Game Development                     3818
+DevOps                               3808
+Social Media Community Management    2028
+System Administration                2014
+Mulesoft                             1973
+Name: Technology, dtype: int64
